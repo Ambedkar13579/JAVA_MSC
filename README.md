@@ -1,4 +1,4 @@
-#Java Lab Programs
+# Java Lab Programs
 1.. WAP to implement data types- int, short, float, string and print/show that data types. All input is available in programs.
 
 2. WAP to implement all operators- addition, subtraction, multiplication, division, modulus and print those values. All input/show is available in programs
